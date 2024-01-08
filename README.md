@@ -1,5 +1,5 @@
 - 👋 Mojn Polle, jeg hedder Niklas
-- 👀 Jeg har programmering B på HTX
+- 👀 Jeg har programmering C på HTX
 - 🌱 Jeg er ved at lære Processing
 - 📫 Kontakt mig på: Dudum@snydt.dk
 
